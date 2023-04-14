@@ -34,8 +34,6 @@ print(y)
 
 x = y = z = "Orange"
 
-# Insert the correct keyword to make the variable x belong to the global scope.
-
-
+## Insert the correct keyword to make the variable x belong to the global scope.
 
 
